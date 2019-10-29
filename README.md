@@ -85,6 +85,7 @@ You may want to take a look at other articles too:
         - [DataHero](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/DataHero.md)
         - [plotly](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/plotly.md)
         - [Tableau](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/Tableau.md)
+        - [PowerBI](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/data_visualization/PowerBI.md)
     - Deep Learning
         - [ANN](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/ANN.md)
         - [Autoencoder](https://github.com/the-ethan-hunt/first-timers-guide/blob/master/guides/data_science/deep_learning/Autoencoder.md)
